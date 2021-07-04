@@ -1,0 +1,147 @@
+@media screen and (max-width:768px) {
+  
+   header {
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-left: 22px;
+    
+    
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  .contents-wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 40px;
+    padding-top: 16px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+
+  }
+  
+  .top-wrapper p {
+    padding-bottom: 16px;
+    padding-left: 10px;
+  }
+  
+  
+  
+  .top-wrapper img {
+    width: 100%;
+    
+  }
+  
+  .whats-new {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .whats-new img {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
+  h2{
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 13px;
+    
+  }
+  
+  .section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .text-wrapper {
+    padding-left: 0px;
+  }
+  
+  h3 {
+    font-size: 20px;
+   
+  }
+  
+  .section p {
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .button { 
+    font-size: 15px;
+    border-radius: 0px;
+    width: 100%;
+    line-height: 42px;
+    letter-spacing: 0.05em;
+  }
+  
+  .second {
+    flex-direction: column-reverse;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    
+  }
+  
+  .second .button {
+    margin-left: 0px;
+  }
+  .text-wrapper2 {
+    padding-right: 0px;
+    padding-left: 0;
+    margin: 0;
+    
+  }
+  
+  .third {
+    padding-bottom: 24px;
+  }
+  
+  footer p {
+    font-size: 14px;
+    padding-top: 18px;
+    padding-bottom: 10px;
+  }
+  
+  .icon-wrapper {
+    width: 300px;
+    padding-bottom: 13px;
+  }
+  
+  .info-wrapper ul {
+    width: 100%;
+    display: block;
+    padding: 0px;
+    margin: 0;
+    padding-bottom: 20px;
+  }
+  
+  .info-wrapper ul li {
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #000;
+  }
+  .info-wrapper ul li a{
+    font-size: 16px;
+    
+   
+    
+  }
+  
+  .pc {
+    display: none;
+  }
+
+  .sp {
+    display: block;
+  }
+}
